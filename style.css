@@ -29,7 +29,7 @@
 }
 
 .logo {
-  background-image: url(Amazon-logo.png);
+  background-image: url(img/logo.png);
   width: 100px;
   height: 50px;
   background-size: cover;
@@ -515,7 +515,7 @@ footer ul a {
 }
 
 .amazon-logo {
-  background-image: url(Amazon-logo.png);
+  background-image: url(img/logo.png);
   width: 100px;
   height: 50px;
   background-size: cover;
